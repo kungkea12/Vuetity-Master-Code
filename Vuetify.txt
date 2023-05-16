@@ -1,0 +1,16 @@
+
+This is default Master Code, Everyone can follow below to install.
+- Vuetify JS and Vue JS
+- Using  Javascript | HTML - CSS 
+- Agenda & Calendar & Card & Div & Button & Image 
+- Sidebar 
+- Material design icons and Font Awsome icons
+
+---------------------- Commande ---------------------------------
+vue create vue-vuetify-js-ui-design
+cd vue-vuetify-js-ui-design
+vue add vuetify
+npm install material-design-icons-iconfont -D
+npm install @fortawesome/fontawesome-free -D
+npm run serve
+
